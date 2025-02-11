@@ -1,0 +1,68 @@
+[
+    {"id": 1, 
+    "nombre": "Motor de arranque", 
+    "categoria": "Repuestos", 
+    "precio": 1500,
+    "imagen": "../img_cat/001.jpg"   
+},
+
+    {   
+"id": 2, 
+"nombre": "Alternador", 
+"categoria": "Repuestos", 
+"precio": 3500,
+"imagen": "../img_cat/002.jpg"   
+},
+
+{   "id": 3, 
+"nombre": "Embrague", 
+"categoria": "Repuestos", 
+"precio": 45000,
+"imagen": "../img_cat/003.jpg"   
+},
+
+{"id": 4, 
+"nombre": "Rueda", 
+"categoria": "Repuestos", 
+"precio": 4000,
+"imagen": "../img_cat/004.jpg"   
+},
+
+{   
+"id": 5, 
+"nombre": "piston", 
+"categoria": "Repuestos", 
+"precio": 5500,
+"imagen": "../img_cat/002.jpg"   
+},
+
+{   "id": 6, 
+"nombre": "valvula", 
+"categoria": "Repuestos", 
+"precio": 45000,
+"imagen": "../img_cat/003.jpg"  
+
+},    {"id": 7, 
+"nombre": "faro", 
+"categoria": "Repuestos", 
+"precio": 1500,
+"imagen": "../img_cat/001.jpg"   
+},
+
+{   
+"id": 8, 
+"nombre": "paragolpes", 
+"categoria": "Repuestos", 
+"precio": 3500,
+"imagen": "../img_cat/002.jpg"   
+},
+
+{   "id": 9, 
+"nombre": "ventilador", 
+"categoria": "Repuestos", 
+"precio": 45000,
+"imagen": "../img_cat/003.jpg"   
+}
+
+
+]
